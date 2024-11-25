@@ -1,12 +1,10 @@
-# Tedooo Feed
+# Jones Automation Exercise
 
-## Run the Application
+## Run the Automation
 
 Open a terminal in the root directory of the project and run:
 
 ```console
 npm install
-npm run dev
+node index.js
 ```
-
-Open the browser at http://localhost:3000/
